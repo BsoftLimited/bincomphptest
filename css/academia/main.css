@@ -1,0 +1,35 @@
+body{
+	background-image:url('../../images/academia/background.jpg');
+	background-size:350px 350px;
+	background-attachment:fixed;
+}
+
+.form-floating label{
+	color: #6c63ff;
+}
+
+.form-floating input{
+	border: solid 2px;
+	color: #6c63ff;
+}
+
+.bg-blue{ background-color: #6c63ff !important; }
+
+.nav-link{ color: #6c63ff; }
+
+.active{
+	background-color: #6c63ff !important;
+	border-color: #6c63ff !important;
+}
+
+.bg-primary{ background-color: #6c63ff !important; }
+.btn-blue{
+	background-color: #6c63ff !important;
+	border-color: #6c63ff !important;
+}
+
+.options-active{
+	background-color: #6c63ff !important;
+	border-color: #6c63ff !important;
+	color: white !important;
+}

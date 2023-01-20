@@ -1,0 +1,10 @@
+.draggable{
+    position:fixed;
+    z-index: 10;
+}
+
+.draggable-header{
+    padding: 6px;
+    cursor: pointer;
+    z-index: 12;
+}

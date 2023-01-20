@@ -1,0 +1,41 @@
+.chat-input-container{
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	margin: 5px;
+}
+
+.chat-input{
+	font-weight:400;
+	font-size:0.9em;
+	border : solid 2px rgba(108, 99, 255, 1);
+	border-radius: 10px;
+	height: 40px;
+}
+
+.my-chat{
+	float: right;
+	font-size:0.8em;
+	font-weight: 500;
+	border : solid 2px rgba(108, 99, 255, 1);
+	padding:5px;
+	margin-left: 100px;
+	color: rgba(108, 99, 255, 1);
+	border-top-left-radius: 15px;
+	border-top-right-radius: 0px;
+	border-bottom-right-radius: 15px;
+	border-bottom-left-radius: 15px; 
+}
+
+.thier-chat{
+	font-size:0.9em;
+	font-weight: 500;
+	background-color : rgba(108, 99, 255, 1);
+	color: white !important;
+	padding:5px;
+	border: solid 2px white;
+	border-top-left-radius: 0px;
+	border-top-right-radius: 15px;
+	border-bottom-right-radius: 15px;
+	border-bottom-left-radius: 15px; 
+}
